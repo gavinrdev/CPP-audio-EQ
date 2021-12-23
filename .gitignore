@@ -1,0 +1,5 @@
+**/Builds
+**/JuceLibraryCode
+**/.DS_Store
+
+# we do not want these directories to be updated after every commit
